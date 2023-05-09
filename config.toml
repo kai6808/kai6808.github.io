@@ -37,7 +37,7 @@ summaryLength = 30
         identifier = "Projects"
         weight = 1
         name = "Projects"
-        url = "/projects"
+        url = "/#my-section1"
     [menu]
       [[menu.main]]
         identifier = "Teaching"

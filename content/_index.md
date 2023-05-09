@@ -4,19 +4,17 @@ framed = true
 +++
 
 {{< rawhtml >}}
-<center>
-<img src="/assets/kai.png" alt="Kai Shen" width="70%" style="border-radius: 20px;" >
-</center>
+<img src="/assets/kai.jpg" alt="Kai Shen" width="33%" style="float: right; margin-left: 35px; border-radius: 10px;" >
 {{< /rawhtml >}}
 
-Contact info: kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot
-Current location: Toronto, Canada  
+I am currently a first-year M.A.Sc. student in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu) at [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://iqua.ece.toronto.edu/bli/index.html) in [iQua](https://iqua.ece.toronto.edu/) research group. My current research focuses on the intersection of **Networking** and **Deep Learning**.
 
-Currently it is used for test~~~
+I received my B.Eng. degree with Honours, First Class from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, majored in Computer Science and Engineering and advised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/).
 
-## At a Glance
 
-I am currently a third-year Ph.D. Candidate in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu), [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://www.ece.utoronto.ca/people/li-b/) in [iQua research group](https://iqua.ece.toronto.edu/). My research area includes **distributed machine learning**, **federated learning** and **networking**.
+<!-- Contact info: kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot
+Current location: Toronto, Canada   -->
+
 
 ### Publications
 xxxxxx
@@ -39,11 +37,12 @@ xxxxxx
 | **Author** | H. Mao                                                                               |
 | **Venue**  | PhD Thesis 2020                                                                       |
 | **Links**  | [Thesis](./content/publications/hongzi-mao-phd-thesis.pdf) / [Slides](https://www.dropbox.com/sh/re255qyp1xcyqv9/AABCa0-Tk7TW5UvJjbueTaBna?dl=0) |
-| **Image**  | ![Publication image](./assets/kai.png)    
+| **Image**  | ![Publication image](/assets/kai.jpg)    
+
 
 ## Test2å
 | A | B |
 |--------|--------|
-| A | <img src="/assets/kai.png" alt="aa" width="300"> |
+| A | <img src="/assets/kai.jpg" alt="aa" width="300"> |
 
-## A
+## A {#my-section1}
