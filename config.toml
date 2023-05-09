@@ -1,4 +1,4 @@
-baseURL = 'https://kaishen.ca/'
+baseURL = '/'
 languageCode = 'en-us'
 theme = "hello-friend"
 paginate = 5
