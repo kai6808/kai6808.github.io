@@ -20,6 +20,6 @@ kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/ci
 
 ### Publications {#pub}
 
-Dayou Zhang, **Kai Shen**, Fangxin Wang, Dan Wang, Jiangchuan Liu. "[Towards Joint Loss and Bitrate Adaption in Realtime Video Streaming](/assets/icme22.pdf)," in the Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2022), Taipei, Taiwan, July 18 - 22, 2022.
-
 **Kai Shen**, Dayou Zhang, Zi Zhu, Lei Zhang, Fangxin Wang, Dan Wang. "[SJA: Server-driven Joint Adaptation of Loss and Bitrate for Multi-Party Realtime Video Streaming](/assets/infocom23.pdf)," in the Proceedings of IEEE INFOCOM 2023, New York Area, U.S.A., May 17 - 20, 2023.
+
+Dayou Zhang, **Kai Shen**, Fangxin Wang, Dan Wang, Jiangchuan Liu. "[Towards Joint Loss and Bitrate Adaption in Realtime Video Streaming](/assets/icme22.pdf)," in the Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2022), Taipei, Taiwan, July 18 - 22, 2022.
