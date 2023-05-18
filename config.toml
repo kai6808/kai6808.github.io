@@ -36,8 +36,8 @@ summaryLength = 30
     [[menu.main]]
         identifier = "Projects"
         weight = 1
-        name = "Projects"
-        url = "/#my-section1"
+        name = "Publications"
+        url = "/#pub"
     [menu]
       [[menu.main]]
         identifier = "Teaching"

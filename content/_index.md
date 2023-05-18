@@ -15,34 +15,11 @@ I received my B.Eng. degree with Honours, First Class from [The Chinese Universi
 <!-- Contact info: kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot
 Current location: Toronto, Canada   -->
 
+### Contact Info
+kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot; [Github](https://github.com/kai6808)
 
-### Publications
-xxxxxx
-<!-- **Ningxin Su**, Baochun Li, Bo Li. “Multi-Server Stable Rendezvous for the Metaverse,” in the Proceedings of *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, June 26 – 28, 2023.
+### Publications {#pub}
 
-**Ningxin Su**, Baochun Li. “MLOps in the Metaverse: Human-Centric Continuous Integration,” submitted to IEEE Journal on Selected Areas in Communications. -->
+Dayou Zhang, **Kai Shen**, Fangxin Wang, Dan Wang, Jiangchuan Liu. "[Towards Joint Loss and Bitrate Adaption in Realtime Video Streaming](/assets/icme22.pdf)," in the Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2022), Taipei, Taiwan, July 18 - 22, 2022.
 
-## About me 
-xxxxxx
-<!-- Meet Ningxin &mdash; a multi-faceted individual with a passion for the arts, sports, and knowledge. With experience conducting a large choir, drumming in a rock band, and teaching dance, Ningxin showcases a deep love for music and movement. As an accomplished long-distance runner, Ningxin is always eager to try new sports and physical challenges. Ningxin is also known for managing large-scale teams, bringing people together to create memorable experiences. In addition, Ningxin is an avid traveler, seeking out new museums, cultures, and natural wonders. Ningxin's true passion, however, lies in the field of **distributed machine learning**, with a focus on **federated learning** and **networking**. Whether on stage or in the lab, Ningxin is driven to constantly learn and grow, constantly pushing oneself to new heights. -->
-
-<!-- [Projects](/projects) &middot; [Teaching](/teaching) &middot; [Professional Services](/professional_services)  -->
-
-
-## Test1
-
-|            |                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------ |
-| **Title**  | Network System Optimization with Reinforcement Learning                                |
-| **Author** | H. Mao                                                                               |
-| **Venue**  | PhD Thesis 2020                                                                       |
-| **Links**  | [Thesis](./content/publications/hongzi-mao-phd-thesis.pdf) / [Slides](https://www.dropbox.com/sh/re255qyp1xcyqv9/AABCa0-Tk7TW5UvJjbueTaBna?dl=0) |
-| **Image**  | ![Publication image](/assets/kai.jpg)    
-
-
-## Test2å
-| A | B |
-|--------|--------|
-| A | <img src="/assets/kai.jpg" alt="aa" width="300"> |
-
-## A {#my-section1}
+**Kai Shen**, Dayou Zhang, Zi Zhu, Lei Zhang, Fangxin Wang, Dan Wang. "[SJA: Server-driven Joint Adaptation of Loss and Bitrate for Multi-Party Realtime Video Streaming](/assets/infocom23.pdf)," in the Proceedings of IEEE INFOCOM 2023, New York Area, U.S.A., May 17 - 20, 2023.
