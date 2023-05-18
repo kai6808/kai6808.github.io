@@ -15,8 +15,8 @@ I received my B.Eng. degree with Honours, First Class from [The Chinese Universi
 <!-- Contact info: kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot
 Current location: Toronto, Canada   -->
 
-### Contact Info
-kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot; [Github](https://github.com/kai6808)
+### Contact Info & CV
+kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot; [Github](https://github.com/kai6808) &middot; [CV](/assets/CV_KAI_22.12.10.pdf) as of December 2022
 
 ### Publications {#pub}
 
