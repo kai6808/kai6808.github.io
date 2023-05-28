@@ -44,9 +44,12 @@ Dayou Zhang*, **Kai Shen***, Fangxin Wang, Dan Wang, Jiangchuan Liu. "Towards Jo
 [[paper]](/publications/icme22/icme22.pdf) [[slides]](/publications/icme22/icme22_slides.pdf)
 
 ### Teaching {#teaching}
-CSC148 – Introduction to Computer Science, Winter 2023 in UofT
 
-CSC3050 - Operating System, Spring 2022 in CUHK(SZ)
+#### Teaching Assistant Experience at University of Toronto:
+CSC148 – Introduction to Computer Science, Winter 2023
+
+#### Teaching Assistant Experience at The Chinese University of Hong Kong, Shenzhen:
+CSC3150 - Operating System, Spring 2022
 
 ### Professional Services {#professional_services}
 
