@@ -37,6 +37,9 @@ kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/ci
 
 ### Publications {#publications}
 
+Kai Shen, Baochun Li. “Learning-based Network Performance Estimators: The Next Frontier for Network Simulation,” in IEEE Network, Special Issue on Interplay Between Machine Learning and Networking Systems, July 2023.  
+[[paper]](/publications/ieeenetwork23/ieeenetwork23.pdf)
+
 **Kai Shen**, Dayou Zhang, Zi Zhu, Lei Zhang, Fangxin Wang, Dan Wang. "SJA: Server-driven Joint Adaptation of Loss and Bitrate for Multi-Party Realtime Video Streaming," in the Proceedings of IEEE INFOCOM 2023, New York Area, U.S.A., May 17 - 20, 2023.   
 [[paper]](/publications/infocom23/infocom23.pdf)  [[slides]](/publications/infocom23/infocom23_slides.pdf)
 
@@ -58,6 +61,8 @@ IEEE/ACM International Symposium on Quality of Service (IWQoS) 2023
 ACM Multimedia Systems (MMSys) 2023
 
 IEEE Transactions on Network Science and Engineering (TNSE)
+
+IEEE Transactions on Mobile Computing (TMC)
 
 ### Awards {#awards}
 
