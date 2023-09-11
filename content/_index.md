@@ -17,7 +17,7 @@ framed = true
 
 <script>
   window.addEventListener('DOMContentLoaded', function() {
-    var images = ['/assets/kai1.jpg', '/assets/kai2.jpg'];
+    var images = ['/assets/kai1.jpg'];
     var randomIndex = Math.floor(Math.random() * images.length);
     var img = document.getElementById('random-image');
     img.src = images[randomIndex];
@@ -27,13 +27,14 @@ framed = true
 <img id="random-image" alt="Kai Shen">
 {{< /rawhtml >}}
 
-I am currently a first-year M.A.Sc. student in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu) at [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://iqua.ece.toronto.edu/bli/index.html) in [iQua](https://iqua.ece.toronto.edu/) research group. My current research focuses on the intersection of **Networking** and **Deep Learning**.
+I am currently a first-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu) at [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://iqua.ece.toronto.edu/bli/index.html) in [iQua](https://iqua.ece.toronto.edu/) research group. My current research focuses on the intersection of **Networking** and **Deep Learning**.
 
 I received my B.Eng. degree with Honours, First Class from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, majored in Computer Science and Engineering and advised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/).
 
 
 ### Contact Info & CV
-kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot; [Github](https://github.com/kai6808) &middot; [CV](/assets/CV_KAI_23_7.pdf) as of December 2022
+kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=tS91ML8AAAAJ&hl=en) &middot; [Github](https://github.com/kai6808) 
+<!-- &middot; [CV](/assets/CV_KAI_23_7.pdf) as of December 2022 -->
 
 ### Publications {#publications}
 
@@ -51,8 +52,10 @@ Dayou Zhang*, **Kai Shen***, Fangxin Wang, Dan Wang, Jiangchuan Liu. "Towards Jo
 #### Teaching Assistant Experience at University of Toronto:
 CSC148 – Introduction to Computer Science, Winter 2023
 
+CSC369 - Operating Systems, Fall 2023
+
 #### Teaching Assistant Experience at The Chinese University of Hong Kong, Shenzhen:
-CSC3150 - Operating System, Spring 2022
+CSC3150 - Operating Systems, Spring 2022
 
 ### Professional Services {#professional_services}
 
