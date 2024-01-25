@@ -27,7 +27,7 @@ framed = true
 <img id="random-image" alt="Kai Shen">
 {{< /rawhtml >}}
 
-I am currently a first-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu) at [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://iqua.ece.toronto.edu/bli/index.html) in [iQua](https://iqua.ece.toronto.edu/) research group. My current research focuses on the intersection of **Networking** and **Deep Learning**.
+I am currently a first-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu) at [University of Toronto](https://www.utoronto.ca). My current research focuses on the intersection of **Networking** and **Deep Learning**.
 
 I received my B.Eng. degree with Honours, First Class from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, majored in Computer Science and Engineering and advised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/).
 
@@ -38,7 +38,13 @@ kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/ci
 
 ### Publications {#publications}
 
-Kai Shen, Baochun Li. “Learning-Based Network Performance Estimators: The Next Frontier for Network Simulation,” in IEEE Network, Special Issue on Interplay Between Machine Learning and Networking Systems, July 2023.  
+
+Dayou Zhang, Hao Zhu, **Kai Shen**, Dan Wang, Fangxin Wang.  "DSJA: Distributed
+Server-Driven Joint Route Scheduling and Streaming Adaptation for Multi-Party
+Realtime Video Streaming," in IEEE Transactions on Mobile Computing, 2023.  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10354029)
+
+**Kai Shen**, Baochun Li. "Learning-Based Network Performance Estimators: The Next Frontier for Network Simulation," in IEEE Network, Special Issue on Interplay Between Machine Learning and Networking Systems, July 2023.  
 [[paper]](/publications/ieeenetwork23/ieeenetwork23.pdf)
 
 **Kai Shen**, Dayou Zhang, Zi Zhu, Lei Zhang, Fangxin Wang, Dan Wang. "SJA: Server-driven Joint Adaptation of Loss and Bitrate for Multi-Party Realtime Video Streaming," in the Proceedings of IEEE INFOCOM 2023, New York Area, U.S.A., May 17 - 20, 2023.   
@@ -47,25 +53,22 @@ Kai Shen, Baochun Li. “Learning-Based Network Performance Estimators: The Next
 Dayou Zhang*, **Kai Shen***, Fangxin Wang, Dan Wang, Jiangchuan Liu. "Towards Joint Loss and Bitrate Adaption in Realtime Video Streaming," in the Proceedings of IEEE International Conference on Multimedia and Expo (ICME 2022), Taipei, Taiwan, July 18 - 22, 2022.  
 [[paper]](/publications/icme22/icme22.pdf) [[slides]](/publications/icme22/icme22_slides.pdf)
 
-### Teaching {#teaching}
+### Teaching Experience {#teaching}
 
-#### Teaching Assistant Experience at University of Toronto:
-CSC148 – Introduction to Computer Science, Winter 2023
+#### Teaching Assistant at University of Toronto:
+APS105 – Computer Fundamentals, Winter 2024
 
 CSC369 - Operating Systems, Fall 2023
 
-#### Teaching Assistant Experience at The Chinese University of Hong Kong, Shenzhen:
+CSC148 – Introduction to Computer Science, Winter 2023
+
+#### Teaching Assistant at The Chinese University of Hong Kong, Shenzhen:
 CSC3150 - Operating Systems, Spring 2022
 
 ### Professional Services {#professional_services}
-
-IEEE/ACM International Symposium on Quality of Service (IWQoS) 2023
-
-ACM Multimedia Systems (MMSys) 2023
+IEEE Transactions on Mobile Computing (TMC)
 
 IEEE Transactions on Network Science and Engineering (TNSE)
-
-IEEE Transactions on Mobile Computing (TMC)
 
 ### Awards {#awards}
 
