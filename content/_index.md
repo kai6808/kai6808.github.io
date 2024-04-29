@@ -27,7 +27,11 @@ framed = true
 <img id="random-image" alt="Kai Shen">
 {{< /rawhtml >}}
 
-I am currently a first-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu) at [University of Toronto](https://www.utoronto.ca). My current research focuses on the intersection of **Networking** and **Deep Learning**.
+I am currently a first-year Ph.D. student in the [Department of Electrical and
+Computer Engineering](https://www.ece.toronto.edu) at [University of
+Toronto](https://www.utoronto.ca), under the supervision of [Prof. Angela Demke
+Brown](https://www.cs.toronto.edu/~demke/) and [Prof. Eyal de Lara](https://www.cs.toronto.edu/~delara/). My current research focuses on **Systems**
+and **Networking**.
 
 I received my B.Eng. degree with Honours, First Class from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, majored in Computer Science and Engineering and advised by [Prof. Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/).
 
@@ -38,8 +42,9 @@ kai.shen@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/ci
 
 ### Publications {#publications}
 
+Dayou Zhang, Lai Wei, **Kai Shen**, Hao Zhu, Dan Wang, Fangxin Wang. "TrimStream: Adaptive Realtime Video Streaming in Adverse Network Conditions," to appear in IEEE Transactions on Mobile Computing, 2024.
 
-Dayou Zhang, Hao Zhu, **Kai Shen**, Dan Wang, Fangxin Wang.  "DSJA: Distributed
+Dayou Zhang, Hao Zhu, **Kai Shen**, Dan Wang, Fangxin Wang. "DSJA: Distributed
 Server-Driven Joint Route Scheduling and Streaming Adaptation for Multi-Party
 Realtime Video Streaming," in IEEE Transactions on Mobile Computing, 2023.  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10354029)
@@ -65,7 +70,7 @@ CSC148 – Introduction to Computer Science, Winter 2023
 #### Teaching Assistant at The Chinese University of Hong Kong, Shenzhen:
 CSC3150 - Operating Systems, Spring 2022
 
-### Professional Services {#professional_services}
+### Professional Services (Reviewers) {#professional_services}
 IEEE Transactions on Mobile Computing (TMC)
 
 IEEE Transactions on Network Science and Engineering (TNSE)
