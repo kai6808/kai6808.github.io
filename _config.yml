@@ -2,6 +2,8 @@
 title: Kai Shen
 position: Ph.D. Student
 affiliation: University of Toronto
+affiliation_link: https://www.utoronto.ca/
+affiliation_logo: 
 email: kai (at) cs.toronto.edu
 
 # Search Engine Optimization (SEO)
@@ -26,7 +28,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
