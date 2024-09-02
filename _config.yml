@@ -3,7 +3,8 @@ title: Kai Shen
 position: Ph.D. Student
 affiliation: University of Toronto
 affiliation_link: https://www.utoronto.ca/
-affiliation_logo: 
+# TODO: show the affiliation logo
+affiliation_logo: ./assets/img/uoft.svg 
 email: kai (at) cs.toronto.edu
 
 # Search Engine Optimization (SEO)
@@ -21,7 +22,10 @@ linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# "favicon" and "favicon_dark" are used for the light and dark modes,
+# respectively. 
+# The favicon is generated from https://favicon.io/favicon-generator/, with
+# circle background, prompt font with 400 italic, and 80 font size.
 avatar: ./assets/img/kai.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
