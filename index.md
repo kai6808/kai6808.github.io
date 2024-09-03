@@ -17,9 +17,10 @@ Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/).
 
 My research interests broadly lie at the intersection of **systems** and
 **networking** - with a current focus on building efficient memory management
-systems. From 2023 to early 2024, I developed Transformer-based scalable and generalizable
-network performance estimators, as well as a Rust-powered, high-performance
-packet-level network simulator.
+systems. From 2023 to early 2024, I developed packet-level, Transformer-based
+network performance estimators with scalability and generality, as well as a Rust-powered, process-based
+high-performance
+network simulator.
 Earlier, my work focused on server-driven adaptive realtime video streaming.
 
 ## Research Interests
