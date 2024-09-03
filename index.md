@@ -26,11 +26,6 @@ Earlier, my work focused on server-driven adaptive realtime video streaming.
 - **Operating Systems:** memory management, cloud computing
 - **Computer Networks:** network simulation, multimeida streaming
 
-## News (TODO)
-
-- **[Sep. 2024]** TODO!!!
-- **[May. 2024]** ALSO TODO!!!
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
