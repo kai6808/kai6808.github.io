@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Short Bio
 
 I am a second-year Ph.D. student in the [Department of Electrical and
 Computer Engineering](https://www.ece.toronto.edu) at [University of
