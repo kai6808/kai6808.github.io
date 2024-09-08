@@ -2,7 +2,7 @@ main:
 
   - title: "TrimStream: Adaptive Realtime Video Streaming in Adverse Network Conditions"
     authors: Dayou Zhang, Lai Wei, <strong>Kai Shen</strong>, Hao Zhu, Dan Wang, Fangxin Wang
-    conference_short: TMC
+    conference_short: TMC'24
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2024.
     pdf: https://www.computer.org/csdl/journal/tm/5555/01/10530178/1WUz4CrGSgE
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -10,7 +10,7 @@ main:
 
   - title: "DSJA: Distributed Server-Driven Joint Route Scheduling and Streaming Adaptation for Multi-Party Realtime Video Streaming"
     authors: Dayou Zhang, Hao Zhu, <strong>Kai Shen</strong>, Dan Wang, Fangxin Wang
-    conference_short: TMC
+    conference_short: TMC'23
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10354029
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -18,7 +18,7 @@ main:
     
   - title: "Learning-Based Network Performance Estimators: The Next Frontier for Network Simulation"
     authors: <strong>Kai Shen</strong>, Baochun Li
-    conference_short: IEEE Network
+    conference_short: IEEE Network'23
     conference: IEEE Network, Special Issue on Interplay between Machine Learning and Networking Systems <strong>(IEEE Network)</strong>, 2023.
     pdf: ./assets/files/publications/ieeenetwork23.pdf
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -26,7 +26,7 @@ main:
 
   - title: "SJA: Server-driven Joint Adaptation of Loss and Bitrate for Multi-Party Realtime Video Streaming"
     authors: <strong>Kai Shen</strong>, Dayou Zhang, Zi Zhu, Lei Zhang, Fangxin Wang, Dan Wang
-    conference_short: INFOCOM
+    conference_short: INFOCOM'23
     conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, 2023.
     pdf: ./assets/files/publications/infocom23.pdf
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -34,7 +34,7 @@ main:
 
   - title: "Towards Joint Loss and Bitrate Adaption in Realtime Video Streaming"
     authors: Dayou Zhang*, <strong>Kai Shen*</strong>, Fangxin Wang, Dan Wang, Jiangchuan Liu (* Co-First Authors)
-    conference_short: ICME
+    conference_short: ICME'22
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2022.
     pdf: ./assets/files/publications/icme22.pdf
     # bibtex: https://bib.yliu.me/MICCAI23.txt

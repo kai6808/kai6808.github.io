@@ -37,3 +37,5 @@ Earlier, my work focused on server-driven adaptive realtime video streaming.
 {% include_relative _includes/awards.md %}
 
 {% include_relative _includes/contact.md %}
+
+{% include_relative _includes/calendar.md %}
