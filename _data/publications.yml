@@ -1,6 +1,6 @@
 main:
 
-  - title: "TrimStream: Adaptive Realtime Video Streaming in Adverse Network Conditions"
+  - title: "TrimStream: Adaptive Realtime Video Streaming through Intelligent Frame Retrospection in Adverse Network Conditions"
     authors: Dayou Zhang, Lai Wei, <strong>Kai Shen</strong>, Hao Zhu, Dan Wang, Fangxin Wang
     conference_short: TMC'24
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2024.
