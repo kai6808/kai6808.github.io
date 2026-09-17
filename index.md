@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-I am a second-year Ph.D. student in the [Department of Electrical and
+I am a third-year Ph.D. candidate in the [Department of Electrical and
 Computer Engineering](https://www.ece.toronto.edu) at [University of
 Toronto](https://www.utoronto.ca/), where I am co-supervised by [Prof. Angela
 Demke Brown](https://www.cs.toronto.edu/~demke/) and [Prof. Eyal de
