@@ -26,7 +26,7 @@ Earlier, my work focused on server-driven adaptive realtime video streaming.
 ## Research Interests
 
 - **Operating Systems:** memory management, cloud computing
-- **Computer Networks:** network simulation, multimeida streaming
+- **Computer Networks:** network simulation, multimedia streaming
 
 {% include_relative _includes/publications.md %}
 
