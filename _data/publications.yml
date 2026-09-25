@@ -1,6 +1,6 @@
 main:
 
-  - title: "TrimStream: Adaptive Realtime Video Streaming through Intelligent Frame Retrospection in Adverse Network Conditions"
+  - title: "TrimStream: Adaptive Realtime Video Streaming Through Intelligent Frame Retrospection in Adverse Network Conditions"
     authors: Dayou Zhang, Lai Wei, <strong>Kai Shen</strong>, Hao Zhu, Dan Wang, Fangxin Wang
     conference_short: TMC'24
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2024.
@@ -32,7 +32,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/publications/infocom23.png
 
-  - title: "Towards Joint Loss and Bitrate Adaption in Realtime Video Streaming"
+  - title: "Towards Joint Loss and Bitrate Adaptation in Realtime Video Streaming"
     authors: Dayou Zhang*, <strong>Kai Shen*</strong>, Fangxin Wang, Dan Wang, Jiangchuan Liu (* Co-First Authors)
     conference_short: ICME'22
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2022.
