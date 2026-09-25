@@ -15,17 +15,25 @@ Science and Engineering under the supervision of [Prof. Fangxin
 Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/).
 
 
-My research interests broadly lie at the intersection of **systems** and
-**networking** - with a current focus on building efficient memory management
-systems. From 2023 to early 2024, I developed packet-level, Transformer-based
-network performance estimators with scalability and generality, as well as a Rust-powered, process-based
-high-performance
-network simulator.
-Earlier, my work focused on server-driven adaptive realtime video streaming.
+My research lies broadly in **computer systems**, with a focus on **memory
+management across the stack**, from the OS kernel to AI serving infrastructure.
+I am currently working on:
+
+- **Tiered memory systems:** runtime-aware page placement and reclamation
+  across DRAM and CXL memory, leveraging garbage-collection insights from
+  managed runtimes.
+- **AI infrastructure:** KV cache management for agentic LLM serving, deciding
+  what to keep, offload, and evict across GPU and CPU memory.
+
+From 2023 to early 2024, I developed packet-level, Transformer-based network
+performance estimators, as well as a Rust-powered, process-based
+high-performance network simulator. Earlier, my work focused on server-driven
+adaptive realtime video streaming.
 
 ## Research Interests
 
-- **Operating Systems:** memory management, cloud computing
+- **Operating Systems:** memory management, tiered memory
+- **AI Infrastructure:** LLM serving, KV cache management
 - **Computer Networks:** network simulation, multimedia streaming
 
 {% include_relative _includes/publications.md %}

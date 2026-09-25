@@ -9,8 +9,8 @@ email: kai (at) cs.toronto.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Kai Shen, University of Toronto, computer systems, operating systems, memory management, networking, network simulation, video streaming
-description: Kai Shen is a Ph.D. candidate at the University of Toronto working at the intersection of systems and networking, with a current focus on efficient memory management systems.
+keywords: Kai Shen, University of Toronto, computer systems, operating systems, memory management, tiered memory, CXL, AI infrastructure, LLM serving, KV cache, networking, network simulation
+description: Kai Shen is a Ph.D. candidate at the University of Toronto working on computer systems, with a focus on memory management from tiered memory in the OS to KV cache management for LLM serving.
 canonical: https://www.kaishen.ca/
 
 # Links 
